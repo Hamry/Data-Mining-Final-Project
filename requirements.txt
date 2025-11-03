@@ -1,0 +1,3 @@
+# Requirements for running notebooks and fetching stock data with yfinance
+jupyter
+yfinance
